@@ -1,7 +1,6 @@
 ### Hi there, I'm MaksonViini! 👋
-<a href="https://github.com/MaksonViini">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksonViini&show_icons=true" alt="MaksonViini's GitHub Stats" />
-</a>
+
+<img align="left" alt="MaksonViini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaksonViini&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksonViini)](https://github.com/MaksonViini)
 
