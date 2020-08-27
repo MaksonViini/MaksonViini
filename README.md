@@ -5,8 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksonViini)](https://github.com/MaksonViini)
 ### Recently I'm coding in...
 
-! [ MaksonViini Code :: Stats history graph ] (https://codestats-readme.wegfan.cn/history-graph/MaksonViini)
-! [ MaksonViini Code :: Stats history graph ] (https://codestats-readme.wegfan.cn/history-graph/username?history_days=30)
+![MaksonViini Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/MaksonViini)
 
 <i>Follow me:</i><br>
 
