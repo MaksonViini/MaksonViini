@@ -3,6 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MaksonViini&show_icons=true" alt="MaksonViini's GitHub Stats" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksonViini)](https://github.com/MaksonViini)
 
 ### Recently I'm coding in...
 <a href="https://codestats.net/users/MaksonViini">
