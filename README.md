@@ -5,7 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksonViini)](https://github.com/MaksonViini)
 ### Recently I'm coding in...
 
-![MaksonViini Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/MaksonViini)
+![MaksonViini Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/MaksonViini?width=800&height=250&history_days=21&max_languages=5&bg_color=111&text_color=aaa&grid_color=333&language_colors=["3e4053","cc4b48","518fbd","ba7a2b","60bd68","f17cb0","b2912f","c71585","b276b2"])
+
 
 <i>Follow me:</i><br>
 
