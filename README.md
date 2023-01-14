@@ -3,8 +3,7 @@
 <img align="left" alt="MaksonViini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaksonViini&show_icons=true&hide_border=true&theme=radical" />
 
 
-<img align="left" alt="MaksonViini's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksonViini&layout=demo" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksonViini&layout=demo)
 
 ### Recently I'm coding in...
 
