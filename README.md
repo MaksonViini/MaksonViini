@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Makson Vinicio! 👋
 
+<br />
+
 <img align="left" alt="MaksonViini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaksonViini&show_icons=true&hide_border=true&theme=dracula" />
 
 
@@ -9,6 +11,16 @@
 
 
 ![MaksonViini Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/MaksonViini?width=800&height=250&history_days=21&max_languages=4&bg_color=111&text_color=FFFFFF&grid_color=333&language_colors=["476CE6","E62258","5F7FE6","E6AA09","20E639"])
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaksonViini&repo=Customer-Care-AI&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaksonViini&repo=Best-Practices-Simple-ToDo-FastApi&theme=dracula" />
+</a>
+
+<br />
 
 
 <i>Follow me:</i><br>
