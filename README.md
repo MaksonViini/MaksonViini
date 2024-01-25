@@ -3,7 +3,7 @@
 <img align="left" alt="MaksonViini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaksonViini&show_icons=true&hide_border=true&theme=radical" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksonViini&layout=demo)
+[![MaksonViini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksonViini)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Recently I'm coding in...
 
